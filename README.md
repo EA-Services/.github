@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 A **Software Engineering Student** 🚀 from Cologne, Germany.
 
 
-  <img align="right" alt="GIF" src="https://cdn-longterm.mee6.xyz/plugins/welcome/images/995300841684729877/041d25c9c0c37ba6c4de352245e762fbba00df259006bed1dea5b343193bad6c.png" />
+  <img align="right" alt="GIF" src="https://i.postimg.cc/wvY4nf4N/Transparent-Big.png" />
 
 **About Us!**
 
