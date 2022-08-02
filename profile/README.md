@@ -1,12 +1,58 @@
-## Hi there 👋
+<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
 <!--
+**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Here are some ideas to get you started:**
+Here are some ideas to get you started:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
+<h3 title="made by vito"> Hey 👋, this is EA!</h3>
+
+<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
+
+
+
+<br />
+<br />
+
+A **Software Engineering Student Group** 🚀 from Cologne, Germany.
+
+
+  <img align="right" alt="GIF" height="400px" width="400px" src="https://i.postimg.cc/wvY4nf4N/Transparent-Big.png" />
+
+**About Us!**
+
+- 👨🏽‍💻 FiveM Development Organisation
+- 🌱 Creating Cars, High Quality Script for ESX & more..-
+- 💼 We're Students and realeasing our stuff for free
+- 💬 Text us on our Discord https://discord.gg/ETT9xtf9zx
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+and of course lua <3
+
+⭐️ From [CodingLenny](https://github.com/CodingLenny)
+
+----
+
+Last Edited on: 02/08/2022
