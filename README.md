@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 A **Software Engineering Student** 🚀 from Cologne, Germany.
 
 
-  <img align="right" alt="GIF" src="https://i.postimg.cc/wvY4nf4N/Transparent-Big.png" />
+  <img align="right" alt="GIF" height="400px" width="400px" src="https://i.postimg.cc/wvY4nf4N/Transparent-Big.png" />
 
 **About Us!**
 
